@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meu perfil : 
+Meu nome é Ana Gabrielly
 
-<!--
-**AnagNovaes/AnagNovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura] (https
+  
+- Estou me desenvolvendo na linguagem JavaScript
+ 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  00001107006831sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![bob esponja] ( ![image](https://github.com/AnagNovaes/AnagNovaes/assets/170538138/9fd486bf-68d8-4a4d-95e3-d25b304c3d91)
+
+
+
+
+
+
